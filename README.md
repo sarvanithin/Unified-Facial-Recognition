@@ -1,8 +1,11 @@
-# Unified-Facial-Analytics-System
-this repository consists of 5 individual projects that i grouped together as they all belong to this category
-attendance by face: https://github.com/karthikeya9296/Facial-recognition-attendance
-drowsiness: https://github.com/karthikeya9296/drowsiness-detection
-face detection: https://github.com/karthikeya9296/face-detection
-mask detection: https://github.com/karthikeya9296/mask-detection
-surveillance: https://github.com/karthikeya9296/Video-Surveillance-and-tracking-system
+# Unified Facial Analytics System
 
+This repository consolidates five individual projects into a comprehensive collection focused on facial analytics:
+
+- **Attendance by Face**: [Attendance-Marking-Using-Facial-Recognition](https://github.com/sarvanithin/Attendance-Marking-Using-Facial-Recognition-)
+- **Drowsiness Detection**: [Drowsiness-Detection](https://github.com/sarvanithin/Drowsiness-Detection)
+- **Face Detection**: [Face-Detection](https://github.com/sarvanithin/Face-Detection-)
+- **Mask Detection**: [Mask-Detection](https://github.com/sarvanithin/mask-detection)
+- **Surveillance**: [Video-Surveillance-and-Tracking-System](https://github.com/sarvanithin/Video-Surveillance-and-Tracking-System)
+
+Each project contributes to the overall theme of facial recognition and real-time analytics, addressing various aspects such as attendance management, drowsiness detection, face and mask detection, and video surveillance.
